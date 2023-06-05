@@ -15,8 +15,8 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
-description = "ExampleSite description"
+title = "Pablo Ortega Tong"
+description = "Geoscience, numerical model, coding and more .."
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = ["Pablo"]
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
