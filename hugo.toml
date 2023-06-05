@@ -3,3 +3,5 @@ title = "Pablo Ortega Tong"
 paginate = 5
 theme = "PaperMod"
 
+[params.assets]
+disableFingerprinting = true
