@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://p-ortega.github.io/"
 title = "Pablo Ortega Tong"
 paginate = 5
 theme = "PaperMod"
