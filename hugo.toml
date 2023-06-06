@@ -53,21 +53,25 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = false
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
-  imageWidth = 120
-  imageHeight = 120
+  enabled = true
+  title = "Dispersivity"
+  subtitle = "Hey there! 👋 I'm Pablo, a geoscientist who loves sharing awesome stuff I've tried and stumbled on. On this website, you'll find cool things related to solute and reactive transport, numerical modelling, Python and coding goodies, and even some random rants. Oh, and don't be surprised if you catch a glimpse of shameless self-promotion too!"
+  imageUrl = "2D_disper.gif"
+  imageWidth = 200
+  imageHeight = 200
   imageTitle = "my image"
 
     [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
+    name = "about"
+    url = "about"
 
     [[params.profileMode.buttons]]
-    name = "Tags"
+    name = "tags"
     url = "tags"
+    
+    [[params.profileMode.buttons]]
+    name = "posts"
+    url = "posts"
 
   [params.homeInfoParams]
   Title = "Hi there 👋 I'm Pablo"
@@ -109,9 +113,9 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "test"
-name = "test"
-url = "/test_docs/"
+identifier = "posts"
+name = "posts"
+url = "/posts/"
 weight = 10
 
 [[menu.main]]
