@@ -3,7 +3,7 @@ title: "Cu-ISR Part 1 - Intro"
 author: "Pablo"
 date: 2023-06-06T21:56:56+08:00
 tags: ["copper", "in-situ recovery", "thesis"]
-draft: true
+draft: false
 ---
 
 <!-- ## Intro to In-situ recovery of Copper -->
