@@ -57,9 +57,9 @@ tocopen = false
   title = "Dispersivity"
   subtitle = "Hey there! 👋 I'm Pablo, a geoscientist who loves sharing awesome stuff I've tried and stumbled on. On this website, you'll find cool things related to solute and reactive transport, numerical modelling, Python and coding goodies, and even some random rants. Oh, and don't be surprised if you catch a glimpse of shameless self-promotion too!"
   imageUrl = "2D_disper.gif"
-  imageWidth = 200
-  imageHeight = 200
-  imageTitle = "my image"
+  imageWidth = 300
+  imageHeight = 300
+  imageTitle = "dispersion"
 
     [[params.profileMode.buttons]]
     name = "about"
