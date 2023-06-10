@@ -67,12 +67,12 @@ tocopen = true
   imageTitle = "dispersion"
 
     [[params.profileMode.buttons]]
-    name = "posts"
-    url = "posts"
-
-    [[params.profileMode.buttons]]
     name = "about"
     url = "about"
+
+    [[params.profileMode.buttons]]
+    name = "posts"
+    url = "posts"
 
     [[params.profileMode.buttons]]
     name = "publications"
