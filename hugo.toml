@@ -13,6 +13,11 @@ pygmentsUseClasses = true
 disableXML = true
 minifyOutput = true
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 [params]
 env = "production"
 title = "Pablo Ortega Tong"
@@ -128,6 +133,12 @@ weight = 10
 identifier = "tags"
 name = "tags"
 url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "publications"
+name = "publications"
+url = "/publications/"
 weight = 20
 
 [markup.highlight]
