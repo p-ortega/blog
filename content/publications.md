@@ -4,9 +4,11 @@ date: 2023-06-10T21:16:40+08:00
 draft: false
 ---
 
-Alrighty! I told you... This blog is also for some shameless self-promotion. Here is the list of publications and conferences I've made in my career. Have a good read!
+Alrighty! I told you... This blog is also for some shameless self-promotion. Here is the list of publications and conferences I've made in my career. Tbh mostly academic wankey here.
 
 ## Journals
+Barron, A., Jamieson, J., Colombani, N., Bostick, B.C., **Ortega-Tong, P.**, Sbarbati, C., Barbieri, M., Petitta, M., Prommer, H. 2024. Model-Based Analysis of Arsenic Retention by Stimulated Iron Mineral Transformation under Coastal Aquifer Conditions. ACS ES&T Water 2024 4 (7), 2944-2956. https://doi.org/10.1021/acsestwater.4c00134
+
 Martens, E., Prommer, H., Sprocati, R., Sun, J., Dai, X., Crane, R., Jamieson, J., **Ortega-Tong, P.**, Rolle, M., Fourie, A., 2021. Toward a more sustainable mining future with electrokinetic in situ leaching. Sci. Adv. 7, eabf9971. https://doi.org/10.1126/sciadv.abf9971
 
 **Ortega-Tong, P.**, Jamieson, J., Bostick, B.C., Fourie, A., Prommer, H., 2023. Secondary phase formation during electrokinetic in situ leaching of intact copper sulphide ore. Hydrometallurgy 216, 105993. https://doi.org/10.1016/j.hydromet.2022.105993
